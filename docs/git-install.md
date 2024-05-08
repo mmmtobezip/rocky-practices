@@ -46,3 +46,7 @@ export PATH=$PATH:/usr/local/poscodx/git/bin
 10. 확인
 # source /etc/profile
 # git --version
+<<<<<<< HEAD
+=======
+
+>>>>>>> ddacc00 (add Files)
